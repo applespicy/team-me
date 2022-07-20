@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: beige;
+}
+
+.container{
+    border: 1px, white;
+    border-radius: 2px;
+    
+    
+}
+
+
+    
